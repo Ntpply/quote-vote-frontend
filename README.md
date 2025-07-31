@@ -12,4 +12,4 @@ This is a React-based project using [Next.js](https://nextjs.org/) framework.
 npm install
 npm run dev
 ```
-### Open your browser and go to http://localhost:3000 to see the app running.
+ Open your browser and go to http://localhost:3000 to see the app running.
